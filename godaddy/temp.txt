@@ -1,0 +1,23 @@
+<response user="835822" svTRID="order.158006" clTRID="2db34be6-c270-403b-4260-caa7e156fa94">
+  <result code="1000">
+    <msg>processed 2 items</msg>
+  </result>
+  <resdata>
+<orderid>158006</orderid>
+  </resdata>
+</response>
+
+<response clTRID="09b0bda6-8e53-4b1e-584d-4e0bbe5c9a1c">
+  <result code="1004">
+    <msg>messages waiting</msg>
+  </result>
+  <msgQ count="3" date="07-08-2013 05:24:06" />
+  <resdata>
+<REPORT>
+<ITEM orderid="158006" roid="wwd.158006" riid="wwd.0" status="1" timestamp="7/8/2013 5:04:33 AM"/>
+<ITEM orderid="158006" roid="wwd.158006" riid="wwd.0" status="1" timestamp="7/8/2013 5:04:33 AM"/>
+<ITEM orderid="158006" roid="wwd.158006" riid="wwd.2" resourceid="domain:935820" status="2" timestamp="7/8/2013 5:05:28 AM"/>
+<ITEM orderid="158006" roid="wwd.158006" riid="wwd.3" resourceid="domain:935821" status="2" timestamp="7/8/2013 5:05:28 AM"/>
+</REPORT>
+  </resdata>
+</response> <nil>

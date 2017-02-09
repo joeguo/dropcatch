@@ -1,0 +1,134 @@
+Product ID, Product Description, Wholesale Buy Rate
+350001,1 Year Domain New Registration .COM,$8.29
+350012,1 Year Domain New Registration .COM Renewal,$8.29
+350002,2 Year Domain New Registration .COM,$16.58
+350013,2 Year Domain New Registration .COM Renewal,$16.58
+350003,3 Year Domain New Registration .COM,$24.87
+350014,3 Year Domain New Registration .COM Renewal,$24.87
+350004,4 Year Domain New Registration .COM,$33.16
+350015,4 Year Domain New Registration .COM Renewal,$33.16
+350005,5 Year Domain New Registration .COM,$41.45
+350016,5 Year Domain New Registration .COM Renewal,$41.45
+350006,6 Year Domain New Registration .COM,$49.74
+350017,6 Year Domain New Registration .COM Renewal,$49.74
+350007,7 Year Domain New Registration .COM,$58.03
+350018,7 Year Domain New Registration .COM Renewal,$58.03
+350008,8 Year Domain New Registration .COM,$66.32
+350019,8 Year Domain New Registration .COM Renewal,$66.32
+350009,9 Year Domain New Registration .COM,$74.61
+350020,9 Year Domain New Registration .COM Renewal,$74.61
+350010,10 Year Domain New Registration .COM,$82.90
+350021,10 Year Domain New Registration .COM Renewal,$82.90
+350011,Transfer .COM,$8.29
+350030,1 Year Domain New Registration .NET,$6.99
+350041,1 Year Domain New Registration .NET Renewal,$6.99
+350031,2 Year Domain New Registration .NET,$13.98
+350042,2 Year Domain New Registration .NET Renewal,$13.98
+350032,3 Year Domain New Registration .NET,$20.97
+350043,3 Year Domain New Registration .NET Renewal,$20.97
+350033,4 Year Domain New Registration .NET,$27.96
+350044,4 Year Domain New Registration .NET Renewal,$27.96
+350034,5 Year Domain New Registration .NET,$34.95
+350045,5 Year Domain New Registration .NET Renewal,$34.95
+350035,6 Year Domain New Registration .NET,$41.94
+350046,6 Year Domain New Registration .NET Renewal,$41.94
+350036,7 Year Domain New Registration .NET,$48.93
+350047,7 Year Domain New Registration .NET Renewal,$48.93
+350037,8 Year Domain New Registration .NET,$55.92
+350048,8 Year Domain New Registration .NET Renewal,$55.92
+350038,9 Year Domain New Registration .NET,$62.91
+350049,9 Year Domain New Registration .NET Renewal,$62.91
+350039,10 Year Domain New Registration .NET,$69.90
+350050,10 Year Domain New Registration .NET Renewal,$69.90
+350040,Transfer .NET,$6.99
+350150,1 Year Domain New Registration .ORG,$7.98
+350161,1 Year Domain New Registration .ORG Renewal,$7.98
+350151,2 Year Domain New Registration .ORG,$15.96
+350162,2 Year Domain New Registration .ORG Renewal,$15.96
+350152,3 Year Domain New Registration .ORG,$23.94
+350163,3 Year Domain New Registration .ORG Renewal,$23.94
+350153,4 Year Domain New Registration .ORG,$31.92
+350164,4 Year Domain New Registration .ORG Renewal,$31.92
+350154,5 Year Domain New Registration .ORG,$39.90
+350165,5 Year Domain New Registration .ORG Renewal,$39.90
+350155,6 Year Domain New Registration .ORG,$47.88
+350166,6 Year Domain New Registration .ORG Renewal,$47.88
+350156,7 Year Domain New Registration .ORG,$55.86
+350167,7 Year Domain New Registration .ORG Renewal,$55.86
+350157,8 Year Domain New Registration .ORG,$63.84
+350168,8 Year Domain New Registration .ORG Renewal,$63.84
+350158,9 Year Domain New Registration .ORG,$71.82
+350169,9 Year Domain New Registration .ORG Renewal,$71.82
+350159,10 Year Domain New Registration .ORG,$79.80
+350170,10 Year Domain New Registration .ORG Renewal,$79.80
+350160,Transfer .ORG,$7.98
+350051,1 Year Domain New Registration .INFO,$7.49
+350062,1 Year Domain New Registration .INFO Renewal,$7.49
+350052,2 Year Domain New Registration .INFO,$14.98
+350063,2 Year Domain New Registration .INFO Renewal,$14.98
+350053,3 Year Domain New Registration .INFO,$22.47
+350064,3 Year Domain New Registration .INFO Renewal,$22.47
+350054,4 Year Domain New Registration .INFO,$29.96
+350065,4 Year Domain New Registration .INFO Renewal,$29.96
+350055,5 Year Domain New Registration .INFO,$37.45
+350066,5 Year Domain New Registration .INFO Renewal,$37.45
+350056,6 Year Domain New Registration .INFO,$44.94
+350067,6 Year Domain New Registration .INFO Renewal,$44.94
+350057,7 Year Domain New Registration .INFO,$52.43
+350068,7 Year Domain New Registration .INFO Renewal,$52.43
+350058,8 Year Domain New Registration .INFO,$59.92
+350069,8 Year Domain New Registration .INFO Renewal,$59.92
+350059,9 Year Domain New Registration .INFO,$67.41
+350070,9 Year Domain New Registration .INFO Renewal,$67.41
+350060,10 Year Domain New Registration .INFO,$74.90
+350071,10 Year Domain New Registration .INFO Renewal,$74.90
+350061,Transfer .INFO,$7.49
+350076,1 Year Domain New Registration .BIZ,$7.99
+350087,1 Year Domain New Registration .BIZ Renewal,$7.99
+350077,2 Year Domain New Registration .BIZ,$15.98
+350088,2 Year Domain New Registration .BIZ Renewal,$15.98
+350078,3 Year Domain New Registration .BIZ,$23.97
+350089,3 Year Domain New Registration .BIZ Renewal,$23.97
+350079,4 Year Domain New Registration .BIZ,$31.96
+350090,4 Year Domain New Registration .BIZ Renewal,$31.96
+350080,5 Year Domain New Registration .BIZ,$39.95
+350091,5 Year Domain New Registration .BIZ Renewal,$39.95
+350081,6 Year Domain New Registration .BIZ,$47.94
+350092,6 Year Domain New Registration .BIZ Renewal,$47.94
+350082,7 Year Domain New Registration .BIZ,$55.93
+350093,7 Year Domain New Registration .BIZ Renewal,$55.93
+350083,8 Year Domain New Registration .BIZ,$63.92
+350094,8 Year Domain New Registration .BIZ Renewal,$63.92
+350084,9 Year Domain New Registration .BIZ,$71.91
+350095,9 Year Domain New Registration .BIZ Renewal,$71.91
+350085,10 Year Domain New Registration .BIZ,$79.90
+350096,10 Year Domain New Registration .BIZ Renewal,$79.90
+350086,Transfer .BIZ,$7.49
+350126,1 Year Domain New Registration .US,$7.29
+350137,1 Year Domain New Registration .US Renewal,$7.29
+350127,2 Year Domain New Registration .US,$14.58
+350138,2 Year Domain New Registration .US Renewal,$14.58
+350128,3 Year Domain New Registration .US,$21.87
+350139,3 Year Domain New Registration .US Renewal,$21.87
+350129,4 Year Domain New Registration .US,$29.16
+350140,4 Year Domain New Registration .US Renewal,$29.16
+350130,5 Year Domain New Registration .US,$36.45
+350141,5 Year Domain New Registration .US Renewal,$36.45
+350131,6 Year Domain New Registration .US,$43.74
+350142,6 Year Domain New Registration .US Renewal,$43.74
+350132,7 Year Domain New Registration .US,$51.03
+350143,7 Year Domain New Registration .US Renewal,$51.03
+350133,8 Year Domain New Registration .US,$58.32
+350144,8 Year Domain New Registration .US Renewal,$58.32
+350134,9 Year Domain New Registration .US,$65.61
+350145,9 Year Domain New Registration .US Renewal,$65.61
+350135,10 Year Domain New Registration .US,$72.90
+350146,10 Year Domain New Registration .US Renewal,$72.90
+350136,Transfer .US,$7.29
+350022,Domain Name Forwarding,$0.00
+350023,Domain Name Forwarding Renewal,$0.00
+350024,Domain Masking,$0.00
+350025,Domain Masking Renewal,$0.00
+377001,Private Registration Services - API,$5.00
+387001,Private Registration Services - API Renewal,$5.00
+377002,Private Transfer Services - API,$5.00
